@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 11efedd6a296dc8488bd750de7b098d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - musicSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - placeBlockSound: {fileID: 8300000, guid: 38c0ae01aaee15c40af694d2639dc837, type: 3}
+  - gameOverSound: {fileID: 8300000, guid: 15a47d8073d451f43b8aaa8b08b27fd8, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
